@@ -11,6 +11,10 @@
   Element Selectors
   ============= */
 
+html {
+  scroll-behavior: smooth;
+}
+
 nav ul a, nav .brand-logo {
   color: whitesmoke;
 }
